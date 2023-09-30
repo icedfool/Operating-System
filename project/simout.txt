@@ -1,0 +1,23 @@
+Algorithm FCES
+-- average CPU burst time: 95.412
+-- average wait time: 70.425
+-- average turnaround time: 169.836
+-- total number of context switches: 462
+-- total number of preemptions: 0
+-- CPU utilization: 39.618%
+
+Algorithm SJF
+-- average CPU burst time: 95.412
+-- average wait time: 76.886
+-- average turnaround time: 176.297
+-- total number of context switches: 462
+-- total number of preemptions: 0
+-- CPU utilization: 39.483%
+
+Algorithm RR
+-- average CPU burst time: 95.412
+-- average wait time: 86.059
+-- total number of context switches: 1068
+-- total number of preemptions: 606
+-- CPU utilization: 38.728%
+
